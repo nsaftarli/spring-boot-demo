@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:/Users/Nariman/Documents/CS/Projects/spring-boot-demo/spring-boot-demo/data/demo
+    driverClassName: org.h2.Driver
+    username: sa
+    password: password
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+
+  h2:
+    console:
+      enabled: true

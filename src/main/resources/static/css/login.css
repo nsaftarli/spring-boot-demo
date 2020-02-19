@@ -1,0 +1,15 @@
+
+body {
+    margin-left: 45%;
+    margin-top: 15%;
+}
+
+input[name="username"] {
+    margin-bottom: 50px;
+
+}
+
+input[name="password"] {
+    margin-left: 9px;
+    margin-bottom: 50px;
+}
